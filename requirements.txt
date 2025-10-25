@@ -14,7 +14,7 @@ pillow==10.4.0
 psutil
 wget
 qrcode
-future==0.14.0
+future==0.18.3
 search_engine_parser
 speedtest
 py-tgcalls==1.2.9
@@ -37,7 +37,7 @@ youtube_search
 youtube-search-python
 googlesearch-python
 unidecode
-#git+https://github.com/joetats/youtube_search@master
-#git+https://github.com/alexmercerind/youtube-search-python@main
-https://github.com/KurimuzonAkuma/pyrogram/archive/v2.1.23.zip
 bing_image_downloader
+
+# ✅ Telegram bağlantı hatasını çözen stabil Pyrogram sürümü
+pyrogram==2.0.106
